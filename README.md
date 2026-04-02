@@ -31,3 +31,7 @@ A REST API for managing and searching Premier League player statistics built wit
 1. Clone the repository
 2. Configure PostgreSQL in `application.properties`
 3. Run the application
+
+## Note
+> This is a personal project for practicing Java, Spring Boot, and PostgreSQL.
+> All credits are given to [Erik Cupsa](https://github.com/Erik-Cupsa).
